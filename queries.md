@@ -13,6 +13,18 @@
 
 ## List first 10 orders ever places, descending by the order date
 
+    OrderID	CustomerID	EmployeeID	OrderDate	ShipperID
+    10248	    90	        5	    1996-07-04	    3
+    10249	    81	        6	    1996-07-05	    1
+    10250	    34	        4	    1996-07-08	    2
+    10251	    84	        3	    1996-07-08	    1
+    10252	    76	        4	    1996-07-09	    2
+    10253	    34	        3	    1996-07-10	    2
+    10254	    14	        5	    1996-07-11	    2
+    10255	    68	        9	    1996-07-12	    3
+    10256	    88	        3	    1996-07-15	    2
+    10257	    35	        4	    1996-07-16	    3
+
 ## Find all customers that live in London, Madrid, or Brazil
 
     London	Around the Horn	Thomas Hardy
